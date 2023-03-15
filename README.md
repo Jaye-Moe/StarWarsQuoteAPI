@@ -1,5 +1,7 @@
 # Star Wars Quote API Documentation
-This API provides access to a database of Star Wars quotes that are stored using MongoDB. The following endpoints are available:
+This API provides access to a database of Star Wars quotes that are stored using MongoDB. 
+
+The following endpoints are available:
 
 # Get all quotes
 Returns a list of all quotes in the database.
